@@ -1,2 +1,2 @@
-This file will be destroyed!!!
+This file will be destroyed!
 It's a dummy, after all.
